@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background-color: #37383a;
+    color: aliceblue;
+}
+.clase-flex{
+    display: flex;
+    justify-content: space-around;
+
+}
